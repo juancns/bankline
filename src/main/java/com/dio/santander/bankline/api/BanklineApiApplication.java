@@ -10,5 +10,4 @@ public class BanklineApiApplication {
 		SpringApplication.run(BanklineApiApplication.class, args);
 		//Começando a codificar o projeto.
 	}
-
 }
