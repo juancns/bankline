@@ -25,24 +25,6 @@ API REST desenvolvida em Java com Spring Boot que simula operações bancárias 
 
 ---
 
-## 📁 Estrutura do Projeto
-
-src/
-└── main/
-└── java/
-└── com/
-└── dio/
-└── santander/
-└── bankline/
-└── api/
-├── controller/ # Controladores REST
-├── dto/ # Data Transfer Objects
-├── model/ # Entidades JPA e Enums
-├── repository/ # Repositórios Spring Data JPA
-└── service/ # Lógica de negócio
-
----
-
 ## 📦 Modelos de Dados
 
 ### Correntista
@@ -104,9 +86,7 @@ POST `/correntistas`
 Registrar uma movimentação
 POST /movimentacoes
 
-json
-Copiar
-Editar
+
 {
   "descricao": "Salário",
   "valor": 2500.00,
