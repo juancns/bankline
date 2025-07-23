@@ -107,6 +107,7 @@ Importe o projeto em sua IDE favorita (IntelliJ, Eclipse, VSCode)
 Configure o banco de dados (H2 em memória ou outro banco à sua escolha)
 
 - Execute a aplicação na classe principal:
+  
 com.dio.santander.bankline.api.BanklineApiApplication
 
 Acesse os endpoints via Postman, curl ou seu cliente REST de preferência
