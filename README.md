@@ -78,15 +78,17 @@ API REST desenvolvida em Java com Spring Boot que simula operações bancárias 
 
 POST `/correntistas`
 
-```json
+```json```
 {
   "nome": "João Silva",
   "cpf": "12345678901"
 }
-Registrar uma movimentação
-POST /movimentacoes
 
+## 📤 Registrar uma movimentação
 
+**POST** `/movimentacoes`
+
+```json```
 {
   "descricao": "Salário",
   "valor": 2500.00,
@@ -97,7 +99,9 @@ POST /movimentacoes
 ⚙️ Como executar o projeto
 
 Clone o repositório
+
 git clone https://github.com/juancns/bankline.git
+
 Importe o projeto em sua IDE favorita (IntelliJ, Eclipse, VSCode)
 
 Configure o banco de dados (H2 em memória ou outro banco à sua escolha)
@@ -107,8 +111,8 @@ Execute a aplicação na classe principal:
 com.dio.santander.bankline.api.BanklineApiApplication
 Acesse os endpoints via Postman, curl ou seu cliente REST de preferência
 
-
 🧠 Aprendizados
+
 Desenvolvimento de API REST com Spring Boot
 
 Modelagem de dados com JPA e entidades embutidas
