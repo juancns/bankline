@@ -102,15 +102,15 @@ POST `/correntistas`
 
 - git clone https://github.com/juancns/bankline.git
 
-Importe o projeto em sua IDE favorita (IntelliJ, Eclipse, VSCode)
+2. Importe o projeto em sua IDE favorita (IntelliJ, Eclipse, VSCode)
 
-Configure o banco de dados (H2 em memória ou outro banco à sua escolha)
+3. Configure o banco de dados (H2 em memória ou outro banco à sua escolha)
 
-- Execute a aplicação na classe principal:
+4. Execute a aplicação na classe principal:
   
 com.dio.santander.bankline.api.BanklineApiApplication
 
-Acesse os endpoints via Postman, curl ou seu cliente REST de preferência
+5. Acesse os endpoints via Postman, curl ou seu cliente REST de preferência
 
 🧠 Aprendizados
 
