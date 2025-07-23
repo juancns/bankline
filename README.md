@@ -113,17 +113,17 @@ Acesse os endpoints via Postman, curl ou seu cliente REST de preferência
 
 🧠 Aprendizados
 
-Desenvolvimento de API REST com Spring Boot
+- Desenvolvimento de API REST com Spring Boot
 
-Modelagem de dados com JPA e entidades embutidas
+- Modelagem de dados com JPA e entidades embutidas
 
-Uso de DTOs para entrada de dados e validação simples
+- Uso de DTOs para entrada de dados e validação simples
 
-Implementação da lógica de negócio na camada de serviço
+- Implementação da lógica de negócio na camada de serviço
 
-Manipulação de dados relacionais via Spring Data JPA
+- Manipulação de dados relacionais via Spring Data JPA
 
-Atualização automática de saldo financeiro em movimentações
+- Atualização automática de saldo financeiro em movimentações
 
 
 Desenvolvido por Juan Carlos do Nascimento da Silva
