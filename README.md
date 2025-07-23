@@ -21,7 +21,7 @@ API REST desenvolvida em Java com Spring Boot que simula operações bancárias 
 - Spring Data JPA (Hibernate)
 - Banco de dados relacional (H2, PostgreSQL ou similar)
 - Maven
-- IDE recomendada: IntelliJ IDEA, Eclipse, VSCode
+- IDE: Eclipse
 
 ---
 
